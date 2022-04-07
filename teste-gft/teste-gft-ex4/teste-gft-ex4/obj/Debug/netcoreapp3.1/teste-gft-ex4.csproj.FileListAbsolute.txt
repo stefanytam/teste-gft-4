@@ -1,0 +1,13 @@
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.exe
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.deps.json
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.runtimeconfig.json
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.runtimeconfig.dev.json
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.dll
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\bin\Debug\netcoreapp3.1\teste-gft-ex4.pdb
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.csprojAssemblyReference.cache
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.AssemblyInfoInputs.cache
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.AssemblyInfo.cs
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.csproj.CoreCompileInputs.cache
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.dll
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.pdb
+C:\workspace\TesteGFT\teste-gft\teste-gft-ex4\teste-gft-ex4\obj\Debug\netcoreapp3.1\teste-gft-ex4.genruntimeconfig.cache
